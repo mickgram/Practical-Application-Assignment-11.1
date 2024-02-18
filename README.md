@@ -6,12 +6,15 @@ Notebook: https://github.com/mickgram/Practical-Application-Assignment-11.1/blob
 
 ZIP file, extracted in root: https://mo-pcco.s3.us-east-1.amazonaws.com/BH-PCMLAI/module_11/practical_application_II_starter.zip
 
-**What Drives the Price of a Car?**
+
+# What Drives the Price of a Car?*
 
 **Objetive:** 
+
 In this application, I will explore a dataset from kaggle. The original dataset contained information on 3 million used cars. The provided dataset contains information on 426K cars to ensure speed of processing.  My goal is to understand what factors make a car more or less expensive.
 
 **Method:** 
+
 I used the CRISP-DM method, and the high level steps had the following findings:
 
 **Business Understanding:**
