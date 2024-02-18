@@ -55,7 +55,7 @@ Data was hotencoded and scaled peoperly.
 
 I tried multi regression, pipeline with SFS and regression, Ridge and Lasso and GridSearchCV.
 
-All models were close in result but Ridge and Lasso gave the best fit with these metrics:
+All models were close in result but GridSearchCV gave the best fit with these metrics:
 
 Fitting 5 folds for each of 9 candidates, totalling 45 fits
 Best parameters found: {'alpha': 100}
