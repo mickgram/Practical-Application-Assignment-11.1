@@ -1,5 +1,9 @@
 # Practical-Application-Assignment-11.1
 
+By: Mick Gram
+Date: 2/18/24
+Notebook: https://github.com/mickgram/Practical-Application-Assignment-11.1/blob/main/Practical-Application-Assignment-11.1.ipynb
+
 **What Drives the Price of a Car?**
 
 **Objetive: 
